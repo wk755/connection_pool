@@ -18,15 +18,6 @@ ConnectionPool 是一个基于 C++ 的数据库连接池管理系统，旨在提
 基于cmake编译，添加好相关库，头文件等
 clion直接运行
 
-# 2. 运行 CMake 配置
-cmake ..
-
-# 3. 编译项目
-make
-
-# 4. 运行程序
-./connection_pool
-```
 
 ---
 
