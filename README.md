@@ -10,7 +10,7 @@ ConnectionPool 是一个基于 C++ 的数据库连接池管理系统，旨在提
 - **数据库**：MySQL  
 - **构建工具**：CMake  
 - **配置文件**：INI 配置文件  
-- **开发环境**：CLion + VSCode 远程开发  
+- **开发环境**：CLion 开发  
 
 ---
 
